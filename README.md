@@ -1,16 +1,12 @@
-# comment
+# Comment Tree
 
-A new Flutter project.
+You can use it to make a comment on social media applications using flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone https://github.com/alisharaff/commentTreeTask.git  
 
-A few resources to get you started if this is your first Flutter project:
+run flutter run only 😉
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![app](https://github.com/alisharaff/commentTreeTask/assets/77925806/0a92f795-174b-4419-b369-08bbcde0c545)
